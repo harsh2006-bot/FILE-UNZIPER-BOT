@@ -1,0 +1,6 @@
+telethon
+aiohttp
+aiofiles
+yt-dlp
+requests
+cryptography
