@@ -3,4 +3,5 @@ aiohttp
 aiofiles
 yt-dlp
 requests
-cryptography
+rarfile
+py7zr
